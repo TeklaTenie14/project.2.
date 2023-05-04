@@ -1,0 +1,59 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.header_wwd{
+    font-size: 3rem;
+    font-weight: 700;
+    color: rgb(104, 104, 104);
+    text-transform: uppercase;
+}
+
+.where_wwd{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+span{
+    font-size: 5rem;
+    text-transform: uppercase;
+    color: gray;
+    font-weight: 800;
+    line-height: 10px;
+}
+
+.span_text_wwd{
+    font-size: 1rem;
+    font-weight: 700;
+    color: rgb(104, 104, 104);
+    letter-spacing: 1px;
+}
+
+.stuff_wwd{
+    width: 100%;
+    height: 80%;
+    color: gray;
+    background-color: rgb(232, 232, 232);
+}
+
+.line_wwd{
+    height: 3px;
+    background-color: #B89e31;
+    border-radius: 4px;
+}
+
+.yellow_wwd{
+    color: #B89e31;
+}
+
+#line_wwd{
+    width: 55px;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,65 @@
+html , body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.main-6p{
+    background-color: #495469;
+    color: white;
+    height: 60%;
+}
+
+#btn-outline-5p{
+    border-radius: 100px;
+    padding: 5px 15px;
+}
+
+#yellow-5p{
+    border-radius: 0;
+    border-color: #ffc107;
+}
+
+input[type=text] {
+    background-color: #495469;
+}
+
+input[type=email] {
+    background-color: #495469;
+}
+
+textarea[type=text] {
+    background-color: #495469;
+}
+
+.head-6p{
+    font-size: xx-large;
+    font-weight: 700;
+}
+
+.line_6p{
+    height: 3px;
+    background-color: #ffffff;
+    border-radius: 4px;
+}
+
+#line_6p{
+    width: 55px;
+    display: flex;
+    justify-content: center;
+}
+
+.icon-6p{
+    width: 30px;
+    height: 24px;
+}
+
+.icon-2-6p{
+    width: 20px;
+    height: 24px;
+}
+
+.margin-form-6p{
+    margin-bottom: 15px;
+}

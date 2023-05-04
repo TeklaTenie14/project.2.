@@ -1,0 +1,30 @@
+html , body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.fourth_pg{
+    width: 100%;
+    height: 40%;
+    background-color: #343e4c;
+    color: rgb(217, 212, 212);
+}
+
+.img-size-4p{
+    width: 60px;
+    height: 60px;
+}
+
+.big-size-4p{
+    width: 100%;
+}
+
+.text-size-4p{
+    width: 50%;
+}
+
+.space-4p{
+    height: 50%;
+}
